@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<speicalGallery>
+  <config>
+    <prependURL>http://localhost:27651/</prependURL>
+  </config>
+  <productList>
+    <product name="product_0">
+      <model normal="images/expic01.png" link="#" />
+      <priceTab>
+        <label>毛呢翻领无袖连衣裙 </label>
+		<pddr>设计师：王甜甜</pddr>
+        <price>￥51120</price>
+      </priceTab>
+      <thumbList>
+        <item url="images/P1001.jpg" link="/shop/detail.aspx?PrdID=2000839">
+          <caption>
+            <price>66310</price>
+          </caption>
+        </item>
+        <item url="images/P1002.jpg" link="/shop/detail.aspx?PrdID=2045140">
+          <caption>
+            <price>14400</price>
+          </caption>
+        </item>
+        <item url="images/P1003.jpg" link="/shop/detail.aspx?PrdID=2048666">
+          <caption>
+            <price>69800</price>
+          </caption>
+        </item>
+        <item url="images/P1004.jpg" link="/shop/detail.aspx?PrdID=2051012">
+          <caption>
+            <price>41888</price>
+          </caption>
+        </item>
+        <item url="images/P1005.jpg" link="/shop/detail.aspx?PrdID=2051502">
+          <caption>
+            <price>35820</price>
+          </caption>
+        </item>
+      </thumbList>
+    </product>
+    <product name="product_1">
+      <model normal="images/expic02.png" link="#" />
+      <priceTab>
+        <label>镂空宽松蝙蝠袖套头针织衫</label>
+		<pddr>设计师：王大川</pddr>
+        <price>￥69800</price>
+      </priceTab>
+      <thumbList>
+        <item url="images/P2001.jpg" link="/shop/detail.aspx?PrdID=2020038">
+          <caption>
+            <price>62820</price>
+          </caption>
+        </item>
+        <item url="images/P2002.jpg" link="/shop/detail.aspx?PrdID=2027467">
+          <caption>
+            <price>17820</price>
+          </caption>
+        </item>
+        <item url="images/P2003.jpg" link="/shop/detail.aspx?PrdID=2029444">
+          <caption>
+            <price>26820</price>
+          </caption>
+        </item>
+        <item url="images/P2004.jpg" link="/shop/detail.aspx?PrdID=2038672">
+          <caption>
+            <price>17820</price>
+          </caption>
+        </item>
+        <item url="images/P2005.jpg" link="/shop/detail.aspx?PrdID=2041997">
+          <caption>
+            <price>35820</price>
+          </caption>
+        </item>
+      </thumbList>
+    </product>
+    <product name="product_2">
+      <model normal="images/expic03.png" link="#" />
+      <priceTab>
+        <label>条纹宽松蝙蝠袖圆领T恤 </label>
+		<pddr>设计师：刘鹏</pddr>
+        <price>￥17820</price>
+      </priceTab>
+      <thumbList>
+        <item url="images/P3001.jpg" link="/shop/detail.aspx?PrdID=2015581">
+          <caption>
+            <price>26820</price>
+          </caption>
+        </item>
+        <item url="images/P3002.jpg" link="/shop/detail.aspx?PrdID=2028299">
+          <caption>
+            <price>17820</price>
+          </caption>
+        </item>
+        <item url="images/P3003.jpg" link="/shop/detail.aspx?PrdID=2043491">
+          <caption>
+            <price>11520</price>
+          </caption>
+        </item>
+        <item url="images/P3004.jpg" link="/shop/detail.aspx?PrdID=2046705">
+          <caption>
+            <price>44820</price>
+          </caption>
+        </item>
+        <item url="images/P3005.jpg" link="/shop/detail.aspx?PrdID=2049412">
+          <caption>
+            <price>26820</price>
+          </caption>
+        </item>
+      </thumbList>
+    </product>
+    <product name="product_3">
+      <model normal="images/expic04.png" link="#" />
+      <priceTab>
+        <label>夏季清爽比基尼套装</label>
+		<pddr>设计师：郑佳</pddr>
+        <price>￥35820</price>
+      </priceTab>
+      <thumbList>
+        <item url="images/P4001.jpg" link="/shop/detail.aspx?PrdID=1963891">
+          <caption>
+            <price>25920</price>
+          </caption>
+        </item>
+        <item url="images/P4002.jpg" link="/shop/detail.aspx?PrdID=2026221">
+          <caption>
+            <price>15800</price>
+          </caption>
+        </item>
+        <item url="images/P4003.jpg" link="/shop/detail.aspx?PrdID=2041812">
+          <caption>
+            <price>26820</price>
+          </caption>
+        </item>
+        <item url="images/P4004.jpg" link="/shop/detail.aspx?PrdID=2045842">
+          <caption>
+            <price>19800</price>
+          </caption>
+        </item>
+        <item url="images/P4005.jpg" link="/shop/detail.aspx?PrdID=2045892">
+          <caption>
+            <price>26820</price>
+          </caption>
+        </item>
+      </thumbList>
+    </product>
+    <product name="product_4">
+      <model normal="images/expic05.png" link="#" />
+      <priceTab>
+        <label>碎花尖领长款连衣裙</label>
+		<pddr>设计师：蔡云</pddr>
+        <price>￥35820</price>
+      </priceTab>
+      <thumbList>
+        <item url="images/P5001.jpg" link="/shop/detail.aspx?PrdID=2032087">
+          <caption>
+            <price>20610</price>
+          </caption>
+        </item>
+        <item url="images/P5002.jpg" link="/shop/detail.aspx?PrdID=2035121">
+          <caption>
+            <price>39800</price>
+          </caption>
+        </item>
+        <item url="images/P5003.jpg" link="/shop/detail.aspx?PrdID=2046184">
+          <caption>
+            <price>25110</price>
+          </caption>
+        </item>
+        <item url="images/P5004.jpg" link="/shop/detail.aspx?PrdID=2048154">
+          <caption>
+            <price>39800</price>
+          </caption>
+        </item>
+        <item url="images/P5005.jpg" link="/shop/detail.aspx?PrdID=2048207">
+          <caption>
+            <price>49320</price>
+          </caption>
+        </item>
+      </thumbList>
+    </product>
+    <product name="product_5">
+      <model normal="images/expic06.png" link="#" />
+      <priceTab>
+        <label>清爽雪纺圆领百褶连衣裙 </label>
+		<pddr>设计师：刘海程</pddr>
+        <price>￥19000900</price>
+      </priceTab>
+      <thumbList>
+        <item url="images/P6001.jpg" link="/shop/detail.aspx?PrdID=1998531">
+          <caption>
+            <price>23220</price>
+          </caption>
+        </item>
+        <item url="images/P6002.jpg" link="/shop/detail.aspx?PrdID=2004652">
+          <caption>
+            <price>17820</price>
+          </caption>
+        </item>
+        <item url="images/P6003.jpg" link="/shop/detail.aspx?PrdID=2007717">
+          <caption>
+            <price>29070</price>
+          </caption>
+        </item>
+        <item url="images/P6004.jpg" link="/shop/detail.aspx?PrdID=2026231">
+          <caption>
+            <price>27810</price>
+          </caption>
+        </item>
+        <item url="images/P6005.jpg" link="/shop/detail.aspx?PrdID=2028122">
+          <caption>
+            <price>26820</price>
+          </caption>
+        </item>
+      </thumbList>
+    </product>
+  </productList>
+</speicalGallery>
